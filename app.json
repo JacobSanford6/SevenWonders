@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "photo-viewer-app",
-    "slug": "photo-viewer-app",
+    "name": "SevenWonders",
+    "slug": "SevenWonders",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/sevenSplash.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/sevenSplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
